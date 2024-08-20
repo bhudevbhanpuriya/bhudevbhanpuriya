@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhudevbhanpuriya
+- 👋 Hi, I’m Bhudev 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning DSA | Web-dev | AI-ML
 - 📫 How to reach me -- mail@ bhanpuriyabhudev03@gmail.com
