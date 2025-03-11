@@ -1,5 +1,13 @@
-# 💫 About Me:
-🔭 I’m currently learning Wev Development <br>💬 Dedicated to improving my proficiency in Data Structures and Algorithms, I strive to tackle complex problems efficiently. Additionally, I actively engage in competitive programming to sharpen my problem-solving abilities. <br>👯 I’m looking to collaborate on projects<br>
+## 🚀 About Me  
+
+🔭 Exploring the world of **Web Development**, crafting intuitive and dynamic applications.  
+
+💡 Passionate about **Data Structures and Algorithms**, constantly refining my skills to tackle complex challenges with efficiency.  
+
+⚡ Competitive programmer at heart, always up for a challenge to push the boundaries of problem-solving.  
+
+👯 Open to collaborations on exciting projects—let's build something amazing together!  
+
 
 
 ## 🌐 Socials:
