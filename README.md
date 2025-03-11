@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently learning Wev Development <br>💬 Dedicated to improving my proficiency in Data Structures and Algorithms, I strive to tackle complex problems efficiently. Additionally, I actively engage in competitive programming to sharpen my problem-solving abilities. <br>👯 I’m looking to collaborate on projects<br>
 
 
 ## 🌐 Socials:
