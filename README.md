@@ -9,14 +9,6 @@
   </ul>
 </div>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Github Profile Views-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhudevbhanpuriya&label=Profile%20views&color=0e75b6&style=flat" alt="bhudevbhanpuriya" /> </p>
-
-<!-- GitHub Stats - Trophy -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhudevbhanpuriya&row=1&col=7&theme=onedark" alt="bhudevbhanpuriya" /></a> </p>
 
 - 🎓 B.Tech at IIIT Gwalior (August 2023 - May 2027)
 
