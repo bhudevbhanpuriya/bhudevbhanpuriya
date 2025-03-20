@@ -93,7 +93,6 @@
 
 <h3 align="center">Coding Profiles</h3>
 <ul>
-    <li>CodeChef: <a href="https://www.codechef.com/users/bhudev03">bhudev03</a> - Max. rating 1564</li>
     <li>LeetCode: <a href="https://leetcode.com/bhudev03/">bhudev03</a> - Solved 250+ problems</li>
 </ul>
 
