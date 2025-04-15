@@ -94,6 +94,8 @@
 <h3 align="center">Coding Profiles</h3>
 <ul>
     <li>LeetCode: <a href="https://leetcode.com/bhudev03/">bhudev03</a> - Solved 250+ problems</li>
+    <li>Codeoforces: <a href="https://codeforces.com/profile/remiss">bhudev03</a> - Pupil (max. rating 1227)</li>
+
 </ul>
 
 <h2 align="center">Projects</h2>
