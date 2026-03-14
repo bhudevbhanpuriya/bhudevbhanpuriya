@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Third-Year+CS+Student+%40+IIIT+Gwalior;Full-Stack+Developer;DSA+Enthusiast+%7C+700%2B+LeetCode+Problems;Open+Source+Contributor;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Third-Year+Student+%40+IIIT+Gwalior;Full-Stack+Developer;DSA+Enthusiast+%7C+700%2B+LeetCode+Problems;Open+Source+Contributor;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 </div>
 
