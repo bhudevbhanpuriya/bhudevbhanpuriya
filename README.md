@@ -20,7 +20,7 @@
 ```typescript
 const bhudev = {
   name:       "Bhudev Bhanpuriya",
-  college:    "IIIT Gwalior (B.Tech CSE, 2023–2027)",
+  college:    "IIIT Gwalior (B.Tech, 2023–2027)",
   focus:      ["Full-Stack Development", "DSA", "Open Source"],
   currentlyLearning: ["System Design", "Advanced DSA", "Cloud Architecture"],
   funFact:    "I debug with console.log and I'm not ashamed of it 😅",
